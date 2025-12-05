@@ -31,12 +31,7 @@ namespace prueba
 		
 		void Button1Click(object sender, EventArgs e)
 		{
-			int a, b, suma;
-			a= int.Parse(textBox1.Text);
-			b= int.Parse(textBox2.Text);
-			
-			suma= a+b;
-			textBox3.Text=suma.ToString();
+			label1.Text="XDDDDDD";
 		}
 	}
 }
